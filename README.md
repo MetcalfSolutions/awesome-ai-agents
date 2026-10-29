@@ -2409,7 +2409,7 @@ Coding
 </details>
 
 ## [Satori](https://github.com/MetcalfSolutions/Satori)
-Clinically informed AI wisdom companion that blends clinical psychology frameworks and eight philosophical traditions into a structured thinking partner.
+Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.
 
 <details>
 
@@ -2418,10 +2418,10 @@ Conversational, Personal Development
 
 ### Description
 
-- Blends IFS, DBT, CFT, Schema Therapy with Stoicism, Buddhism, Taoism, Sufi wisdom, and Jungian depth psychology
-- Jungian Shadow Work protocol (5-session arc)
-- Dark Night protocol (presence-only mode for non-clinical despair)
-- 211k+ characters of structured reference architecture
+- Single-lens reflective dialogue across psychological frameworks and philosophical traditions
+- Local-first SQLite memory vault with signal minimization and zero telemetry
+- Trigger boundary discipline with 98.0% non-activation rate on pure technical tasks
+- Tested compatibility across 16 environments (Claude Code, Cursor, Codex CLI, web chat)
 - Free, open-source (Apache 2.0)
 
 ### Links
