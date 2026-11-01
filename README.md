@@ -2426,6 +2426,7 @@ Conversational, Personal Development
 
 ### Links
 - [GitHub](https://github.com/MetcalfSolutions/Satori)
+- [Web](https://metcalfsolutions.github.io/Satori/)
 
 </details>
 
